@@ -1,0 +1,3 @@
+[submodule "monsite/themes/ananke"]
+	path = monsite/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
